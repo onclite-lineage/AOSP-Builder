@@ -13,8 +13,8 @@ env:
     OUTPUT: LineageOS*.zip
 
 task:
-  name: "Setting Up, Syncing, Building and Uploading..."
-  timeout_in: 240m  
+  name: "Setting Up, Syncing, Building and Uploading..." 
+  timeout_in: 360m  
   container:
       image: ubuntu:20.04
       cpu: 8
