@@ -6,7 +6,7 @@ env:
     DT_PATH: device/$OEM/$DEVICE
     VT_LINK: https://github.com/ExodusOS/vendor.git
     VT_PATH: vendor/$OEM/$DEVICE
-    KT_LINK: https://github.com/Redmi-7-Trees/android_device_xiaomi_onclite.git
+    KT_LINK: https://github.com/Redmi-7-Trees/android_kernel_xiaomi_onclite.git
     KT_PATH: kernel/$OEM/$DEVICE
     TARGET: bacon
     LUNCH_COMBO: lineage_${DEVICE}-userdebug
